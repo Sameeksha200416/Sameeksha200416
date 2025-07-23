@@ -20,7 +20,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=sameeksha200416&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
@@ -34,32 +34,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-```javascript
-const sameeksha = {
-    name: "Sameeksha Vishwakarma",
-    title: "Full-Stack Developer",
-    location: "India 🇮🇳",
-    education: "Computer Science Engineering Student",
-    
-    currentFocus: ["MERN Stack Development", "Data Structures & Algorithms", "C++ Programming"],
-    
-    techStack: {
-        frontend: ["React.js", "HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Python"],
-        databases: ["MongoDB", "MySQL", "MS SQL Server", "Redis"],
-        cloud: ["AWS", "Google Cloud Platform", "Firebase"],
-        tools: ["Docker", "Postman", "Git", "Figma", "Photoshop", "Illustrator"]
-    },
-    
-    currentlyLearning: ["Advanced C++", "MERN Stack", "System Design", "DevOps"],
-    
-    askMeAbout: ["Full-Stack Development", "Data Structures & Algorithms", "Problem Solving", "Web Development"],
-    
-    contact: "sameekshavishwakarma16@gmail.com",
-    
-    funFact: "I love turning complex problems into simple, beautiful solutions! ✨"
-};
-```
+
 
 <div align="center">
 
