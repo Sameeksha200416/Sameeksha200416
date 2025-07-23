@@ -1,11 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sameeksha Vishwakarma</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<div align="center">
+  
+# 👋 Hello, I'm Sameeksha Vishwakarma
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Problem+Solver;MERN+Stack+Enthusiast+%7C+C%2B%2B+Developer;Passionate+about+Clean+Code+%26+Innovation;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksha200416&label=Profile%20views&color=0e75b6&style=flat" alt="sameeksha200416" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameeksha200416" alt="sameeksha200416" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/sameekshavish" target="blank"><img src="https://img.shields.io/twitter/follow/sameekshavish?logo=twitter&style=for-the-badge" alt="sameekshavish" /></a> </p>
+### 🌟 Passionate Full-Stack Developer from India 🇮🇳
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sameeksha200416&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/sameeksha200416)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sameekshavish?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/sameekshavish)
+[![GitHub Followers](https://img.shields.io/github/followers/sameeksha200416?logo=github&style=for-the-badge&color=00d9ff)](https://github.com/sameeksha200416)
+
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNkODczMHE3bnNpejZnMTdxczU5NmxydDNta3Z0bTZvbzZneGZwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sameeksha200416&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 - 🌱 I’m currently learning **C++|MERN**
 
@@ -13,27 +30,229 @@
 
 - 📫 How to reach me **sameekshavishwakarma16@gmail.com**
 
+## 🚀 About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+```javascript
+const sameeksha = {
+    name: "Sameeksha Vishwakarma",
+    title: "Full-Stack Developer",
+    location: "India 🇮🇳",
+    education: "Computer Science Engineering Student",
+    
+    currentFocus: ["MERN Stack Development", "Data Structures & Algorithms", "C++ Programming"],
+    
+    techStack: {
+        frontend: ["React.js", "HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "Python"],
+        databases: ["MongoDB", "MySQL", "MS SQL Server", "Redis"],
+        cloud: ["AWS", "Google Cloud Platform", "Firebase"],
+        tools: ["Docker", "Postman", "Git", "Figma", "Photoshop", "Illustrator"]
+    },
+    
+    currentlyLearning: ["Advanced C++", "MERN Stack", "System Design", "DevOps"],
+    
+    askMeAbout: ["Full-Stack Development", "Data Structures & Algorithms", "Problem Solving", "Web Development"],
+    
+    contact: "sameekshavishwakarma16@gmail.com",
+    
+    funFact: "I love turning complex problems into simple, beautiful solutions! ✨"
+};
+```
+
+<div align="center">
+
+### 💡 What I'm Up To
+
+🌱 Currently diving deep into **C++ and MERN Stack Development**  
+💻 Building amazing web applications with **React.js and Node.js**  
+🧠 Solving algorithmic challenges on **LeetCode and GeeksforGeeks**  
+📚 Expanding my knowledge in **System Design and Cloud Computing**  
+🎯 Goal: **Contributing to Open Source Projects**
+
+</div>
+
 <!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sam16vis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sam16vis" height="30" width="40" /></a>
-<a href="https://twitter.com/sameekshavish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameekshavish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameeksha-vishwakarma16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameeksha-vishwakarma16/" height="30" width="40" /></a>
-<a href="https://instagram.com/sameeksha_1_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameeksha_1_6" height="30" width="40" /></a>
-<a href="https://medium.com/sameekshavishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sameekshavishwakarma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sameeksha16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameeksha16" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sameekshavisti22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sameekshavisti22" height="30" width="40" /></a>
-<a href="https://discord.gg/sameeksha_1_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sameeksha_1_6" height="30" width="40" /></a>
-</p>
+## 🤝 Let's Connect & Collaborate
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeksha200416&show_icons=true&locale=en&layout=compact" alt="sameeksha200416" /></p>
+### 🌐 Find me around the web:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameeksha200416&show_icons=true&locale=en" alt="sameeksha200416" /></p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameeksha-vishwakarma16/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sameekshavish)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sam16vis)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sameekshavishwakarma)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameeksha200416&" alt="sameeksha200416" /></p>
+</div>
+
+### 💻 Coding Profiles:
+
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sameeksha16)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sameekshavisti22)
+
+</div>
+
+### 📱 Social:
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sameeksha_1_6)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sameeksha_1_6)
+
+</div>
+
+</div>
+
+## 🛠️ Tech Stack & Tools
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+### 💻 Programming Languages
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+### ⚙️ Backend Development
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🔧 Tools & Software
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+### 📈 GitHub Stats
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sameeksha200416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksha200416&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### 🔥 GitHub Streak & Activity
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sameeksha200416&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Sameeksha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sameeksha200416&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+### 💡 GitHub Metrics
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/sameeksha200416/sameeksha200416/output/github-contribution-grid-snake.svg)
+
+</div>
+
+</div>
+
+## 📬 Get In Touch
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+### Let's connect and build something amazing together! 🚀
+
+📧 **Email:** [sameekshavishwakarma16@gmail.com](mailto:sameekshavishwakarma16@gmail.com)  
+💼 **LinkedIn:** [Sameeksha Vishwakarma](https://linkedin.com/in/sameeksha-vishwakarma16/)  
+🐦 **Twitter:** [@sameekshavish](https://twitter.com/sameekshavish)
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thank you for visiting my profile! 
+
+<img src="https://komarev.com/ghpvc/?username=sameeksha200416&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+**Made with ❤️ by Sameeksha Vishwakarma**
+
+⭐ **Star my repositories if you find them interesting!** ⭐
+
+</div>
