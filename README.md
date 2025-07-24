@@ -12,7 +12,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sameekshavish?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/sameekshavish)
 [![GitHub Followers](https://img.shields.io/github/followers/sameeksha200416?logo=github&style=for-the-badge&color=00d9ff)](https://github.com/sameeksha200416)
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNkODczMHE3bnNpejZnMTdxczU5NmxydDNta3Z0bTZvbzZneGZwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 </div>
 
@@ -25,6 +25,8 @@
 </div>
 
 - 🌱 I’m currently learning **C++|MERN**
+
+- 🏆 Winner of the Hack SRIT 2025 - Best Girls Team for HealthQ, an AI-powered hospital management system
 
 - 💬 Ask me about **Full-Stack Development and Data Structure and Algorithm**
 
